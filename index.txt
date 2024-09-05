@@ -11,9 +11,9 @@
 
 <img src="img_la.jpg" alt="LA" style="width:100%">
 
-<div class="">
-
-</div>
-
+<span>
+<h1>Hi</h1>
+<p>hello</p>
+ </span>
 </body>
 </html>
